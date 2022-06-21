@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+:root{
+ --f7-theme-color:#D97937;
+ --f7-navbar-bg-color: #D97937; /*navbar*/
+ --f7-navbar-link-color:#fff;
+ --f7-navbar-text-color:#fff;
+ --f7-bars-bg-color:#D97937;/*toolbar*/
+ --f7-block-margin-vertical:20px;
+ --f7-card-footer-border-color:transparent; 
+}
+
+#app{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+.title{
+	font-family: 'Pacifico', cursive;
+}
+#info-panel{
+	background-color: #D97937;
+	color: #fff;
+	padding: 40px 30px;
+}
+.panel i{
+	color: #D97937;
+}
+.panel .list{
+	font-size: 14px;
+}
+.img-fluid{
+	max-width: 100%;
+	display: block;
+}
+#checkout .card-content{
+	padding: 10px 5px;
+}
+#checkout .titulo{
+	font-weight: 600;
+	font-size: 16px;
+}
+hr{
+	border:1px solid #eee;
+	margin: 20px 0;
+}
+
+.page-content a{
+	text-align: center;
+	margin-top: 30px;
+}
+
+#modal-login .page{
+	background-color: #000;
+	padding: 15px;
+}
+#modal-login .page-content{
+	border-radius: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
